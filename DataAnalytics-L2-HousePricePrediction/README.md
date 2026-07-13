@@ -47,7 +47,7 @@ Python, pandas, scikit-learn, matplotlib, seaborn, Jupyter Notebook
   top of the physical size of the home.
 - Ridge and Lasso were tested as a check against overfitting, given the modest dataset size
   (128 rows) relative to the number of encoded features.
-
+ 
 ## How to Run
 ```bash
 pip install pandas scikit-learn matplotlib seaborn jupyter
