@@ -62,4 +62,4 @@ jupyter notebook HousePricePrediction.ipynb
 
 ## Note on Originality
 All analysis, code structure, feature reasoning, and written observations in this notebook
-are my own independent work, built specifically for this task.
+are my own independent work, built specifically for this task. 
